@@ -1,4 +1,4 @@
-# Print the pattern of Hollow rectangle 
+# Print the pattern of Half Numarical Pyramid 
 
 ## input 1:
 ### num=5;
