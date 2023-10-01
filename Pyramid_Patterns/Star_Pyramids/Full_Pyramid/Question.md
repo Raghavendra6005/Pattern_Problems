@@ -1,4 +1,4 @@
-# Print the pattern of Inverted Half Numerical Pyramid 
+# Print the pattern of Full Star Pyramid 
 
 ## input 1:
 ### num=5;
