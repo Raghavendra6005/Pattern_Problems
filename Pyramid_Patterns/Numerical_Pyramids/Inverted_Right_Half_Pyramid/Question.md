@@ -1,4 +1,4 @@
-# Print the pattern of Inverted Right Half Numerical Pyramid 
+# Print the pattern of Inverted Right Half Numerical pyramid
 
 ## input 1:
 ### num=5;
